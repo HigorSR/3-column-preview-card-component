@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { Big_Shoulders_Display, Lexend_Deca } from 'next/font/google'
+import 'typeface-big-shoulders-display'
 import './globals.css'
 
 const lexandDeca = Lexend_Deca({subsets: ['latin'], weight: ['400']})
